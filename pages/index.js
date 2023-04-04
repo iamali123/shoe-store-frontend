@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import HeroBanner from "@/components/heroBanner";
+import HeroBanner from "@/components/HeroBanner";
 import ProductCard from "@/components/ProductCard";
 import Wrapper from "@/components/Wrapper";
 import { fetchDataFromApi } from "@/utils/api";
